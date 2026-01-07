@@ -1,0 +1,5 @@
+{
+  "name": "JobFit Analyzer & Application Kit",
+  "description": "A smart career assistant that analyzes your resume against job descriptions, provides a detailed gap analysis table, estimates interview chances, and generates tailored cover letters.",
+  "requestFramePermissions": []
+}
